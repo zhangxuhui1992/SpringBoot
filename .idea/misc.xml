@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/SpringBoot-quickStart/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-config/pom.xml" />
       </list>
     </option>
   </component>
