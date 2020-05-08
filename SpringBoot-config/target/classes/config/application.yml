@@ -1,0 +1,13 @@
+
+server:
+  port: 8066
+
+user:
+  name: '张旭辉'
+  id: 10001
+  age: 18
+  address: '北京市昌平区七燕路一号院2306'
+
+
+
+mylocalIp: 127.0.0.1

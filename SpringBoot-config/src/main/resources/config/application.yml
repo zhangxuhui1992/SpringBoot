@@ -1,0 +1,23 @@
+
+
+#-file:./config
+#-file:./
+#-classpath:/config/
+#-classpath:/
+#以上是按照优先级从高到低，所有位置的文件都会被加载，高优先级配置内容会覆盖低优先级的配置内容。互补配置
+#外部配置文件，从外向内查找加载，优先加载application-dev
+#properties形式命名的配置文件,再来加载application
+#properties的配置文件，多个配置文件形成互补配置。
+
+server:
+  port: 8066
+
+user:
+  name: '张旭辉'
+  id: 10001
+  age: 18
+  address: '北京市昌平区七燕路一号院2306'
+
+
+
+mylocalIp: 127.0.0.1

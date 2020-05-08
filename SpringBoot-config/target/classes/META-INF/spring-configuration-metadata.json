@@ -1,0 +1,52 @@
+{
+  "groups": [
+    {
+      "name": "city",
+      "type": "com.mace.pojo.City",
+      "sourceType": "com.mace.pojo.City"
+    },
+    {
+      "name": "user",
+      "type": "com.mace.pojo.User",
+      "sourceType": "com.mace.pojo.User"
+    }
+  ],
+  "properties": [
+    {
+      "name": "city.flag",
+      "type": "java.lang.String",
+      "sourceType": "com.mace.pojo.City"
+    },
+    {
+      "name": "city.localtion",
+      "type": "java.lang.String",
+      "sourceType": "com.mace.pojo.City"
+    },
+    {
+      "name": "city.name",
+      "type": "java.lang.String",
+      "sourceType": "com.mace.pojo.City"
+    },
+    {
+      "name": "user.address",
+      "type": "java.lang.String",
+      "sourceType": "com.mace.pojo.User"
+    },
+    {
+      "name": "user.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.mace.pojo.User"
+    },
+    {
+      "name": "user.id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.mace.pojo.User"
+    },
+    {
+      "name": "user.name",
+      "type": "java.lang.String",
+      "sourceType": "com.mace.pojo.User"
+    }
+  ],
+  "hints": []
+}
