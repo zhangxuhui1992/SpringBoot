@@ -13,6 +13,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class QuickStart {
     public static void main(String[] args) {
         //springboot项目启动
-        SpringApplication.run(QuickStart.class,args);
+        SpringApplication.run(QuickStart.class, args);
     }
 }
