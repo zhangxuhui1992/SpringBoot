@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
  * @email zxh_1633@163.com
  * @create 2020-05-08 17:25
  *
- * @PropertiesSource加载指定的配置文件（将配置文件中的属性和实体类映射时，记载指定的配置文件。）
+ * @PropertiesSource加载指定的配置文件（将配置文件中的属性和实体类映射时，加载指定的配置文件。）
  * 对于@PropertySource注解，默认是不支持yml配置文件读取的，需要修改重写才可以
  */
 @Data

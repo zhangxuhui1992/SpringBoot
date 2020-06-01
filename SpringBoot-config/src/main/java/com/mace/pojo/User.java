@@ -15,7 +15,7 @@ import org.springframework.stereotype.Component;
  * @Accessors(chain=true)
  * 映射配置文件中的属性,以指定的prefix进行匹配
  * @ConfigurationProperties(prefix = "user")
- * 只有容器中的组件才能使用使用容器提供的功能
+ * 只有容器中的组件才能使用使用容器提供的功能,映射主配置文件中配置的属性.
  * @Component
  */
 @Data
