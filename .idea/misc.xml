@@ -6,6 +6,8 @@
         <option value="$PROJECT_DIR$/SpringBoot-quickStart/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBoot-config/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBoot-websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-logger/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-web/pom.xml" />
       </list>
     </option>
   </component>

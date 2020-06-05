@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringBoot.iml" filepath="$PROJECT_DIR$/SpringBoot.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-config/SpringBoot-config.iml" filepath="$PROJECT_DIR$/SpringBoot-config/SpringBoot-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-logger/SpringBoot-logger.iml" filepath="$PROJECT_DIR$/SpringBoot-logger/SpringBoot-logger.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-quickStart/SpringBoot-quickStart.iml" filepath="$PROJECT_DIR$/SpringBoot-quickStart/SpringBoot-quickStart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-web/SpringBoot-web.iml" filepath="$PROJECT_DIR$/SpringBoot-web/SpringBoot-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-websocket/SpringBoot-websocket.iml" filepath="$PROJECT_DIR$/SpringBoot-websocket/SpringBoot-websocket.iml" />
     </modules>
   </component>

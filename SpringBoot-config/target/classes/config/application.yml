@@ -9,6 +9,7 @@
 #properties形式命名的配置文件,再来加载application
 #properties的配置文件，多个配置文件形成互补配置。
 
+
 server:
   port: 8066
 
@@ -21,3 +22,9 @@ user:
 
 
 mylocalIp: 127.0.0.1
+
+#改变默认配置，指定的配置文件和默认的配置会形成互补配置.
+spring:
+  config:
+    location: D:application.properties
+debug: true
