@@ -1,0 +1,19 @@
+k: v 键值对，空格必须有。以空格的缩进控制层级关系，左对齐的数据都是同一层级的。
+属性和值大小写敏感。
+
+值的写法：
+    字面量：k: v 字符串默认不加双引号，""不会转义特殊字符，特殊字符任然有效，''会转义特使字符。
+    对象：k: v
+        friends:
+            name: 张三
+            age：18
+        friends: {name: 张三,age: 18}
+    数组：
+        pets:
+          - cat
+          - dog
+          - pig
+        pets: [cat,dog,pig]
+
+@value 不支持复杂类型封装，不支持松散绑定，不支持JSR303数据校验，获取配置文件中的单个值。
+@configurationProperties 用于和javabean映射，不支持spel表达式，支持JSR303数据校验。

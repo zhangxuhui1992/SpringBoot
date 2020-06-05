@@ -2,46 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0289d328-4315-4b95-9f87-49b0a0073297" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-logger/SpringBoot-logger.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-logger/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-logger/src/main/java/com/mace/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-logger/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-logger/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-logger/src/test/java/springLogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-web/SpringBoot-web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-web/src/main/java/com/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-web/src/main/java/com/MyConfig/MyConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-web/src/main/java/com/controller/PageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-web/src/main/java/com/service/PageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-web/src/main/resources/config/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-web/src/main/resources/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-web/src/main/resources/static/asserts/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-web/src/main/resources/static/asserts/css/dashboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-web/src/main/resources/static/asserts/css/signin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-web/src/main/resources/static/asserts/img/bootstrap-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-web/src/main/resources/static/asserts/js/Chart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-web/src/main/resources/static/asserts/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-web/src/main/resources/static/asserts/js/feather.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-web/src/main/resources/static/asserts/js/jquery-3.2.1.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-web/src/main/resources/static/asserts/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-web/src/main/resources/templates/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-web/src/main/resources/templates/dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-web/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-web/src/main/resources/templates/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot-config/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot-config/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringBoot-config/src/main/resources/config/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot-config/src/main/resources/config/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot-config/target/classes/config/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot-config/target/classes/config/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot-config/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot-config/src/test/java/MyTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/SpringBoot-quickStart/target/" />
@@ -89,14 +53,24 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SpringBoot-config/src/main/resources/config/yml语法.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -140,9 +114,6 @@
         <option value="$PROJECT_DIR$/SpringBoot-config/src/main/java/com/mace/pojo/User.java" />
         <option value="$PROJECT_DIR$/SpringBoot-config/src/main/java/com/mace/service/HelloService.java" />
         <option value="$PROJECT_DIR$/SpringBoot-config/src/main/java/com/mace/configuration/MySpringBootConfig.java" />
-        <option value="$PROJECT_DIR$/SpringBoot-config/pom.xml" />
-        <option value="$PROJECT_DIR$/SpringBoot-config/src/test/java/MyTest.java" />
-        <option value="$PROJECT_DIR$/SpringBoot-config/src/main/resources/config/application.yml" />
         <option value="$PROJECT_DIR$/SpringBoot-logger/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBoot-logger/src/main/java/com/mace/App.java" />
         <option value="$PROJECT_DIR$/SpringBoot-logger/src/test/java/springLogTest.java" />
@@ -159,6 +130,12 @@
         <option value="$PROJECT_DIR$/SpringBoot-web/src/main/resources/config/application.yml" />
         <option value="$PROJECT_DIR$/SpringBoot-web/src/main/java/com/controller/PageController.java" />
         <option value="$PROJECT_DIR$/SpringBoot-web/src/main/java/com/MyConfig/MyConfig.java" />
+        <option value="$PROJECT_DIR$/SpringBoot-config/src/main/java/com/mace/pojo/Dog.java" />
+        <option value="$PROJECT_DIR$/SpringBoot-config/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-config/src/main/java/com/mace/pojo/Person.java" />
+        <option value="$PROJECT_DIR$/SpringBoot-config/src/test/java/MyTest.java" />
+        <option value="$PROJECT_DIR$/SpringBoot-config/src/main/resources/config/application.yml" />
+        <option value="$PROJECT_DIR$/SpringBoot-config/src/main/resources/config/yml语法.txt" />
       </list>
     </option>
   </component>
@@ -204,6 +181,94 @@
             <path>
               <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringBoot-config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringBoot-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringBoot-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringBoot-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringBoot-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringBoot-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringBoot-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mace" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringBoot-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringBoot-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringBoot-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringBoot-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -257,12 +322,12 @@
     </option>
     <option name="contentProportion" value="0.16229282" />
   </component>
-  <component name="RunManager" selected="Spring Boot.QuickStart">
-    <configuration name="MyTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MyTest.test2">
+    <configuration name="MyTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SpringBoot-config" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MyTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -325,20 +390,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.MyTest.test" />
       <item itemvalue="JUnit.springLogTest.test" />
       <item itemvalue="Spring Boot.App (1)" />
       <item itemvalue="Spring Boot.QuickStart" />
       <item itemvalue="Spring Boot.App (2)" />
       <item itemvalue="Spring Boot.App (3)" />
+      <item itemvalue="JUnit.MyTest.test2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyTest.test2" />
         <item itemvalue="Spring Boot.QuickStart" />
         <item itemvalue="Spring Boot.App (3)" />
         <item itemvalue="JUnit.springLogTest.test" />
         <item itemvalue="Spring Boot.App (2)" />
-        <item itemvalue="JUnit.MyTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -377,7 +442,7 @@
       <workItem from="1590973287220" duration="14333000" />
       <workItem from="1591063620837" duration="6784000" />
       <workItem from="1591273989573" duration="2329000" />
-      <workItem from="1591322243974" duration="1368000" />
+      <workItem from="1591322243974" duration="5817000" />
     </task>
     <task id="LOCAL-00001" summary="配置文件学习">
       <created>1586404110428</created>
@@ -463,7 +528,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590975046924</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="logger学习">
+      <created>1591323744930</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1591323744930</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -479,9 +551,24 @@
     <history-entry file="springLogTest_test - 2020.06.01 at 10h 41m 45s.xml">
       <configuration name="springLogTest.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MyTest_test2 - 2020.06.05 at 11h 16m 27s.xml">
+      <configuration name="MyTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test2 - 2020.06.05 at 11h 17m 41s.xml">
+      <configuration name="MyTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test2 - 2020.06.05 at 11h 18m 59s.xml">
+      <configuration name="MyTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test2 - 2020.06.05 at 11h 19m 45s.xml">
+      <configuration name="MyTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test2 - 2020.06.05 at 11h 20m 17s.xml">
+      <configuration name="MyTest.test2" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52607000" />
+    <option name="totallyTimeSpent" value="57056000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -494,6 +581,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49854228" visible="true" weight="0.2425876" />
       <window_info id="Structure" order="1" sideWeight="0.50145775" side_tool="true" weight="0.22237197" />
@@ -503,7 +591,7 @@
       <window_info id="Web" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932614" weight="0.5131195" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932614" weight="0.34548104" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -511,11 +599,11 @@
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32944608" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32944608" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067383" side_tool="true" weight="0.32507288" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067383" side_tool="true" weight="0.3265306" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32944608" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32944608" />
       <window_info anchor="bottom" id="Database Changes" order="13" weight="0.32944608" />
-      <window_info anchor="bottom" id="Version Control" order="14" visible="true" weight="0.3265306" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49932614" weight="0.3265306" />
       <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.409621" />
       <window_info anchor="bottom" id="Database Console" order="16" weight="0.32944608" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -651,34 +739,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.2.6.RELEASE/spring-boot-2.2.6.RELEASE-sources.jar!/org/springframework/boot/SpringBootConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="45" column="6" lean-forward="true" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/SystemForJava/java_1.8/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12298">
-          <caret line="585" column="14" selection-start-line="585" selection-start-column="14" selection-end-line="585" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.5.RELEASE/spring-context-5.2.5.RELEASE.jar!/org/springframework/context/annotation/Configuration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.5.RELEASE/spring-context-5.2.5.RELEASE.jar!/org/springframework/context/annotation/ImportBeanDefinitionRegistrar.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.5.RELEASE/spring-core-5.2.5.RELEASE.jar!/org/springframework/core/io/support/SpringFactoriesLoader.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -711,27 +771,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot-config/src/main/resources/config/city.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SpringBoot-config/src/main/java/com/mace/pojo/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot-config/src/main/java/com/mace/pojo/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -762,18 +805,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot-config/src/main/java/com/mace/configuration/MySpringBootConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="21" column="36" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SpringBoot-config/src/main/java/com/mace/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -786,13 +817,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot-config/src/main/resources/config/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SpringBoot-websocket/src/main/java/com/mace/websocket/myWebSocketServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-951">
@@ -800,13 +824,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot-config/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="57" column="12" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="57" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -825,16 +842,6 @@
     <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-logging/2.2.6.RELEASE/spring-boot-starter-logging-2.2.6.RELEASE.pom">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-858" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot-config/src/test/java/MyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SpringBoot-logger/src/main/resources/logback-spring.xml.fxml" />
@@ -1048,6 +1055,120 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-386">
           <caret line="71" column="13" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot-config/src/main/resources/config/city.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot-config/src/main/resources/config/city.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot-config/src/main/java/com/mace/configuration/MySpringBootConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot-config/src/main/java/com/mace/pojo/City.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot-config/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot-config/src/main/java/com/mace/pojo/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot-config/src/main/java/com/mace/pojo/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#771#772#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#858#859#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot-config/src/test/java/MyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#909#910#0" expanded="true" />
+            <element signature="e#945#946#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot-config/src/main/resources/config/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot-config/src/main/resources/config/yml语法.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>

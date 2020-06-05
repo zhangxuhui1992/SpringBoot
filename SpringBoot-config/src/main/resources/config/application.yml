@@ -27,4 +27,16 @@ mylocalIp: 127.0.0.1
 spring:
   config:
     location: D:application.properties
-debug: true
+#debug: true
+
+
+person:
+  name: 张三
+  age: 18
+  maps: {k1: v1,k2: v2}
+  lists:
+    - l1
+    - l2
+  dog:
+    name: 旺财
+    age: 2
