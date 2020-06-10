@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/SpringBoot-websocket/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBoot-logger/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBoot-web/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-exception/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-tomact/pom.xml" />
       </list>
     </option>
   </component>
