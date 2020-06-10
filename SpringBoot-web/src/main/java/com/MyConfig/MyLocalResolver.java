@@ -11,6 +11,7 @@ import java.util.Locale;
  * @author zhangxuhui
  * @email zxh_1633@163.com
  * @create 2020-06-09 20:33
+ * 国际化信息解析器
  */
 public class MyLocalResolver implements LocaleResolver {
     @Override

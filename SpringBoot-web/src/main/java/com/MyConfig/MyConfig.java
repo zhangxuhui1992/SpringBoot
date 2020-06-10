@@ -43,7 +43,10 @@ public class MyConfig implements WebMvcConfigurer {
         registry.addViewController("/main").setViewName("dashboard");
     }
 
-
+    /**
+     * 添加国际化信息解析器
+     * @return
+     */
     @Bean
     public LocaleResolver localeResolver(){
         return new MyLocalResolver();
