@@ -6,6 +6,11 @@
       "sourceType": "com.mace.pojo.City"
     },
     {
+      "name": "person",
+      "type": "com.mace.pojo.Person",
+      "sourceType": "com.mace.pojo.Person"
+    },
+    {
       "name": "user",
       "type": "com.mace.pojo.User",
       "sourceType": "com.mace.pojo.User"
@@ -26,6 +31,31 @@
       "name": "city.name",
       "type": "java.lang.String",
       "sourceType": "com.mace.pojo.City"
+    },
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.mace.pojo.Person"
+    },
+    {
+      "name": "person.dog",
+      "type": "com.mace.pojo.Dog",
+      "sourceType": "com.mace.pojo.Person"
+    },
+    {
+      "name": "person.lists",
+      "type": "java.util.List",
+      "sourceType": "com.mace.pojo.Person"
+    },
+    {
+      "name": "person.maps",
+      "type": "java.util.Map",
+      "sourceType": "com.mace.pojo.Person"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.mace.pojo.Person"
     },
     {
       "name": "user.address",

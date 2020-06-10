@@ -1,6 +1,9 @@
 server:
   port: 3066
-
+#server.servlet.context-path: /study 项目的访问路径
 spring:
   thymeleaf:
     cache: false
+
+  messages:
+    basename: i18n.login # 国际化配置文件路径
