@@ -11,15 +11,19 @@
         <module name="SpringBoot-quickStart" />
         <module name="SpringBoot-web" />
         <module name="SpringBoot-config" />
+        <module name="SpringBoot-mybatis" />
         <module name="SpringBoot-tomact" />
         <module name="SpringBoot-websocket" />
         <module name="SpringBoot-exception" />
+        <module name="SpringBoot-jdbc" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="SpringBoot-config" target="1.8" />
       <module name="SpringBoot-exception" target="1.8" />
+      <module name="SpringBoot-jdbc" target="1.8" />
       <module name="SpringBoot-logger" target="1.8" />
+      <module name="SpringBoot-mybatis" target="1.8" />
       <module name="SpringBoot-quickStart" target="1.8" />
       <module name="SpringBoot-tomact" target="1.8" />
       <module name="SpringBoot-web" target="1.8" />
@@ -30,7 +34,9 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="SpringBoot-config" options="-parameters" />
       <module name="SpringBoot-exception" options="-parameters" />
+      <module name="SpringBoot-jdbc" options="-parameters" />
       <module name="SpringBoot-logger" options="-parameters" />
+      <module name="SpringBoot-mybatis" options="-parameters" />
       <module name="SpringBoot-quickStart" options="-parameters" />
       <module name="SpringBoot-tomact" options="-parameters" />
       <module name="SpringBoot-web" options="-parameters" />

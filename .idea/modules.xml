@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/SpringBoot.iml" filepath="$PROJECT_DIR$/SpringBoot.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-config/SpringBoot-config.iml" filepath="$PROJECT_DIR$/SpringBoot-config/SpringBoot-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-exception/SpringBoot-exception.iml" filepath="$PROJECT_DIR$/SpringBoot-exception/SpringBoot-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-jdbc/SpringBoot-jdbc.iml" filepath="$PROJECT_DIR$/SpringBoot-jdbc/SpringBoot-jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-logger/SpringBoot-logger.iml" filepath="$PROJECT_DIR$/SpringBoot-logger/SpringBoot-logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-mybatis/SpringBoot-mybatis.iml" filepath="$PROJECT_DIR$/SpringBoot-mybatis/SpringBoot-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-quickStart/SpringBoot-quickStart.iml" filepath="$PROJECT_DIR$/SpringBoot-quickStart/SpringBoot-quickStart.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-tomact/SpringBoot-tomact.iml" filepath="$PROJECT_DIR$/SpringBoot-tomact/SpringBoot-tomact.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-web/SpringBoot-web.iml" filepath="$PROJECT_DIR$/SpringBoot-web/SpringBoot-web.iml" />
