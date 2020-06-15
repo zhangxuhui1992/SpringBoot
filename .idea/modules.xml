@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-logger/SpringBoot-logger.iml" filepath="$PROJECT_DIR$/SpringBoot-logger/SpringBoot-logger.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-mybatis/SpringBoot-mybatis.iml" filepath="$PROJECT_DIR$/SpringBoot-mybatis/SpringBoot-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-quickStart/SpringBoot-quickStart.iml" filepath="$PROJECT_DIR$/SpringBoot-quickStart/SpringBoot-quickStart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-redis/SpringBoot-redis.iml" filepath="$PROJECT_DIR$/SpringBoot-redis/SpringBoot-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-tomact/SpringBoot-tomact.iml" filepath="$PROJECT_DIR$/SpringBoot-tomact/SpringBoot-tomact.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-web/SpringBoot-web.iml" filepath="$PROJECT_DIR$/SpringBoot-web/SpringBoot-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-websocket/SpringBoot-websocket.iml" filepath="$PROJECT_DIR$/SpringBoot-websocket/SpringBoot-websocket.iml" />
