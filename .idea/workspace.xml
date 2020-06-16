@@ -19,6 +19,7 @@
     <ignored path="$PROJECT_DIR$/SpringBoot-jdbc/target/" />
     <ignored path="$PROJECT_DIR$/SpringBoot-mybatis/target/" />
     <ignored path="$PROJECT_DIR$/SpringBoot-redis/target/" />
+    <ignored path="$PROJECT_DIR$/SpringBoot-task/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,12 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SpringBoot-web/pom.xml" />
-        <option value="$PROJECT_DIR$/SpringBoot-web/src/main/java/com/dto/Employee.java" />
-        <option value="$PROJECT_DIR$/SpringBoot-web/src/main/java/com/dao/DepartmentDao.java" />
-        <option value="$PROJECT_DIR$/SpringBoot-web/src/main/java/com/dao/EmployeeDao.java" />
-        <option value="$PROJECT_DIR$/SpringBoot-web/src/main/resources/i18n/login.properties" />
-        <option value="$PROJECT_DIR$/SpringBoot-web/src/main/resources/templates/index.html" />
         <option value="$PROJECT_DIR$/SpringBoot-web/src/main/java/com/controller/PageController.java" />
         <option value="$PROJECT_DIR$/SpringBoot-web/src/main/java/com/MyConfig/MyLocalResolver.java" />
         <option value="$PROJECT_DIR$/SpringBoot-web/src/main/java/com/MyConfig/MyConfig.java" />
@@ -143,6 +138,12 @@
         <option value="$PROJECT_DIR$/SpringBoot-redis/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBoot-redis/src/main/resources/config/application.yml" />
         <option value="$PROJECT_DIR$/SpringBoot-redis/src/test/java/SpringBootReidsTest.java" />
+        <option value="$PROJECT_DIR$/SpringBoot-task/src/main/java/com/controller/AsyncController.java" />
+        <option value="$PROJECT_DIR$/SpringBoot-task/src/main/java/com/service/AsyncService.java" />
+        <option value="$PROJECT_DIR$/SpringBoot-task/src/main/java/com/App.java" />
+        <option value="$PROJECT_DIR$/SpringBoot-task/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-task/src/main/resources/config/application.yml" />
+        <option value="$PROJECT_DIR$/SpringBoot-task/src/test/java/MailTest.java" />
       </list>
     </option>
   </component>
@@ -244,12 +245,22 @@
     </option>
     <option name="contentProportion" value="0.16229282" />
   </component>
-  <component name="RunManager" selected="JUnit.SpringBootReidsTest.getMsg">
-    <configuration name="SpringBootJDBCTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SpringBoot-jdbc" />
+  <component name="RunManager" selected="JUnit.MailTest.test02">
+    <configuration name="MailTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot-task" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SpringBootJDBCTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="MailTest" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailTest.testMail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot-task" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MailTest" />
+      <option name="METHOD_NAME" value="testMail" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -275,8 +286,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="SpringBoot-redis" />
+    <configuration name="App (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot-task" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.*" />
@@ -290,10 +301,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MailTest.test02" />
+        <item itemvalue="JUnit.MailTest.testMail" />
+        <item itemvalue="Spring Boot.App (1)" />
         <item itemvalue="JUnit.SpringBootReidsTest.getMsg" />
         <item itemvalue="JUnit.SpringBootReidsTest.redisTest" />
-        <item itemvalue="Spring Boot.App" />
-        <item itemvalue="JUnit.SpringBootJDBCTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +356,7 @@
       <workItem from="1591943962563" duration="9506000" />
       <workItem from="1592002209584" duration="2128000" />
       <workItem from="1592188497941" duration="5336000" />
-      <workItem from="1592219453119" duration="683000" />
+      <workItem from="1592219453119" duration="7755000" />
     </task>
     <task id="LOCAL-00001" summary="配置文件学习">
       <created>1586404110428</created>
@@ -472,22 +484,17 @@
       <option name="project" value="LOCAL" />
       <updated>1591955673277</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="redis整合">
+      <created>1592222081343</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1592222081343</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SpringBootJDBCTest_test - 2020.06.12 at 15h 38m 25s.xml">
-      <configuration name="SpringBootJDBCTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpringBootJDBCTest_test - 2020.06.12 at 15h 39m 04s.xml">
-      <configuration name="SpringBootJDBCTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpringBootJDBCTest_test - 2020.06.12 at 15h 42m 14s.xml">
-      <configuration name="SpringBootJDBCTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpringBootReidsTest_redisTest - 2020.06.15 at 14h 30m 42s.xml">
-      <configuration name="SpringBootReidsTest.redisTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SpringBootReidsTest_redisTest - 2020.06.15 at 14h 35m 30s.xml">
       <configuration name="SpringBootReidsTest.redisTest" configurationId="JUnit" />
     </history-entry>
@@ -506,9 +513,21 @@
     <history-entry file="SpringBootReidsTest_getMsg - 2020.06.15 at 14h 40m 27s.xml">
       <configuration name="SpringBootReidsTest.getMsg" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MailTest_testMail - 2020.06.15 at 21h 57m 45s.xml">
+      <configuration name="MailTest.testMail" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MailTest_testMail - 2020.06.15 at 21h 58m 18s.xml">
+      <configuration name="MailTest.testMail" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MailTest_testMail - 2020.06.15 at 21h 59m 15s.xml">
+      <configuration name="MailTest.testMail" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MailTest_test02 - 2020.06.15 at 22h 02m 44s.xml">
+      <configuration name="MailTest.test02" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115252000" />
+    <option name="totallyTimeSpent" value="122324000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -530,7 +549,7 @@
       <window_info id="Web" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932614" weight="0.50291544" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932614" weight="0.5" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39941692" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -540,11 +559,11 @@
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067383" side_tool="true" weight="0.3265306" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32944608" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32798833" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3265306" />
       <window_info anchor="bottom" id="Database Changes" order="13" weight="0.32944608" />
-      <window_info anchor="bottom" id="Run Dashboard" order="14" weight="0.41253644" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" weight="0.41399416" />
       <window_info anchor="bottom" id="Database Console" order="15" weight="0.32944608" />
-      <window_info anchor="bottom" id="Version Control" order="16" sideWeight="0.49932614" weight="0.3265306" />
+      <window_info anchor="bottom" id="Version Control" order="16" sideWeight="0.49932614" weight="0.7419825" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -557,7 +576,7 @@
       <window_info anchor="right" id="Translation Assistant" order="9" weight="0.32951483" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49854228" visible="true" weight="0.32479784" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49854228" visible="true" weight="0.3301887" />
       <window_info id="Structure" order="1" sideWeight="0.50145775" side_tool="true" weight="0.22237197" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -575,11 +594,11 @@
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067383" side_tool="true" weight="0.3265306" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32944608" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32798833" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3265306" />
       <window_info anchor="bottom" id="Database Changes" order="13" weight="0.32944608" />
-      <window_info anchor="bottom" id="Run Dashboard" order="14" visible="true" weight="0.41253644" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="14" visible="true" weight="0.41399416" />
       <window_info anchor="bottom" id="Database Console" order="15" weight="0.32944608" />
-      <window_info anchor="bottom" id="Version Control" order="16" sideWeight="0.49932614" weight="0.3265306" />
+      <window_info anchor="bottom" id="Version Control" order="16" sideWeight="0.49932614" weight="0.7419825" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -648,7 +667,8 @@
     <MESSAGE value="国际化、登录拦截、自定义视图控制器、thymeleaf" />
     <MESSAGE value="异常、servlet容器" />
     <MESSAGE value="数据访问" />
-    <option name="LAST_COMMIT_MESSAGE" value="数据访问" />
+    <MESSAGE value="redis整合" />
+    <option name="LAST_COMMIT_MESSAGE" value="redis整合" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -684,85 +704,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SpringBoot-exception/src/main/resources/templates/error/5xx.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot-exception/src/main/java/com/mace/exception/MyException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot-exception/src/main/resources/templates/error/4xx.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot-exception/src/main/resources/templates/exception.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot-exception/src/main/java/com/mace/exception/MyErrorAttributes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot-exception/src/main/java/com/mace/exception/MyExceptionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot-tomact/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="68" column="12" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.0.RELEASE/spring-boot-autoconfigure-2.3.0.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/ServerProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="134" column="14" selection-start-line="134" selection-start-column="14" selection-end-line="134" selection-end-column="14" />
-          <folding>
-            <element signature="e#3769#3770#0" expanded="true" />
-            <element signature="e#3792#3793#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/SystemForJava/java_1.8/jre/lib/rt.jar!/com/sun/org/apache/xerces/internal/impl/xs/traversers/Container.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#535#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SpringBoot-tomact/src/main/java/com/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -1098,13 +1039,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot-redis/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1672">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SpringBoot-redis/src/main/resources/config/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -1131,6 +1065,95 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot-redis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="97" column="12" selection-start-line="89" selection-start-column="3" selection-end-line="97" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE.jar!/org/springframework/scheduling/annotation/Scheduled.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE-sources.jar!/org/springframework/scheduling/annotation/Scheduled.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="81" column="22" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot-task/src/test/java/MailTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot-task/src/main/java/com/service/AsyncService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot-task/src/main/java/com/controller/AsyncController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot-task/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot-task/src/main/java/com/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot-task/src/main/resources/config/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot-web/src/main/java/com/controller/PageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
         </state>
       </provider>
     </entry>

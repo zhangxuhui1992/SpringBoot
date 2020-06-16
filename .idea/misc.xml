@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/SpringBoot-jdbc/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBoot-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBoot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-task/pom.xml" />
       </list>
     </option>
   </component>

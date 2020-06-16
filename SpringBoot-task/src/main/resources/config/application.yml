@@ -1,0 +1,12 @@
+server:
+  port: 8099
+
+spring:
+  mail:
+    username: 1083606942@qq.com
+    password: igwqcbjeznxzhihh
+    host: smtp.qq.com
+    properties:
+      mail:
+        smtp:
+          ssl: enable=true

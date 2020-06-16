@@ -11,6 +11,7 @@
         <module name="SpringBoot-quickStart" />
         <module name="SpringBoot-web" />
         <module name="SpringBoot-config" />
+        <module name="SpringBoot-task" />
         <module name="SpringBoot-tomact" />
         <module name="SpringBoot-mybatis" />
         <module name="SpringBoot-exception" />
@@ -27,6 +28,7 @@
       <module name="SpringBoot-mybatis" target="1.8" />
       <module name="SpringBoot-quickStart" target="1.8" />
       <module name="SpringBoot-redis" target="1.8" />
+      <module name="SpringBoot-task" target="1.8" />
       <module name="SpringBoot-tomact" target="1.8" />
       <module name="SpringBoot-web" target="1.8" />
       <module name="SpringBoot-websocket" target="1.8" />
@@ -41,6 +43,7 @@
       <module name="SpringBoot-mybatis" options="-parameters" />
       <module name="SpringBoot-quickStart" options="-parameters" />
       <module name="SpringBoot-redis" options="-parameters" />
+      <module name="SpringBoot-task" options="-parameters" />
       <module name="SpringBoot-tomact" options="-parameters" />
       <module name="SpringBoot-web" options="-parameters" />
       <module name="SpringBoot-websocket" options="-parameters" />
